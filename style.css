@@ -1,0 +1,33 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 255, 140, 0.879);
+    background-image: url(https://i.redd.it/6w3qhglmolla1.jpg);
+    background-size: cover;
+    transform: rotate(360deg);
+    position: relative;
+    top: 100px;
+    left: 100px;
+    text-align: center;
+}   
+
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position: relative;
+    top: 300px;
+    left: 300px;
+    transform:translate(30px,60px);
+}
+
+#two{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    transition: all;
+    
+}
+
+
+
